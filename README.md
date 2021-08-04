@@ -1,3 +1,3 @@
 # cdn
 
-![124](https://cdn.jsdelivr.net/gh/Suikasora/cdn@main/photo_2021-02-18_23-54-00.jpg)
+![需要仓库public](https://cdn.jsdelivr.net/gh/Suikasora/cdn@main/file_6094870.jpg)
